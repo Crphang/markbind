@@ -16,7 +16,7 @@ markbind init --template minimal
 
 ## Supported Templates
 
-Name    | Template key | Description
-----    | -------      | ------
-Default | `default`    | Default template if `--template` is unspecified. Filled with Markbind features to guide you to author better content.
-Minimal | `minimal`    | Minimalistic template that gets you started quickly
+Name    | Template key | Description | Quick Deploy
+----    | -------      | ----------- | ------------
+Default | `default`    | Default template if `--template` is unspecified. Filled with Markbind features to guide you to author better content. | [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Crphang/webrepo)
+Minimal | `minimal`    | Minimalistic template that gets you started quickly | [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Crphang/minimalrepo)
